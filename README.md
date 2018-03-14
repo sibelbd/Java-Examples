@@ -1,2 +1,2 @@
-# Java-Examples
+# Java-Example 1, Interitance Practice with Set/Get Methods
 As I progress into becoming a more refined developer, I want to start using GitHub and upload some small works or projects so I can show off my skill. Currently, I am studying for my Bachelors in Computer Science after receiving my Associates in Information Technology. At my community college there were two paths, C++ and Java. I had selected Java, but now will have to transition to C++ as a requirement for my four year university. I've chosen to work on some Java examples to keep up with the language.
